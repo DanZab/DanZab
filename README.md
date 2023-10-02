@@ -1,9 +1,3 @@
-Hi, I’m @DanZab
-I’m interested in Azure, Powershell, SCCM, and other Microsoft products
+# Dan Zabinski | Cloud Solution Architect, Azure, Terraform, Powershell
 
-I’m currently learning Terraform, and randomly updating this page
-
-<!---
-DanZab/DanZab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to add or reach out to me on (LinkedIn)[https://www.linkedin.com/in/danielzabinski/]. Most of my work on GitHub uses an enterprise account so my activity is largely private.
